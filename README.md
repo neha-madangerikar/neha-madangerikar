@@ -1,8 +1,11 @@
 # neha-madangerikar
 
 Hi, I'm Neha Madangerikar 👋
-A 3rd year Biotechnology Engineering Student @ RVCE, Bengaluru
-Passionate about genomics, drug design, bioinformatics, and computational biology
+
+🌿A 3rd year Biotechnology Engineering Student @ RVCE, Bengaluru
+
+🧬Passionate about genomics, drug design, bioinformatics, and computational biology
+
 Always exploring-sometimes with ML, sometimes with a pipette.
 
 - Skills: Python, R, basic machine learning, sequence analysis
