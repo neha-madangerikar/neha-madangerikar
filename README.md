@@ -1,4 +1,4 @@
-# neha_madangerikar
+# neha-madangerikar
 
 Hi, I'm Neha Madangerikar 👋
 A 3rd year Biotechnology Engineering Student @ RVCE, Bengaluru
