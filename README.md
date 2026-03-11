@@ -8,8 +8,5 @@ Hi, I'm Neha Madangerikar 👋
 
 Always exploring-sometimes with ML, sometimes with a pipette.
 
-- Skills: Python, R, basic machine learning, sequence analysis
-- Interests: computational biology, medical biotech
-
 Let’s connect!
 📧 nehamadangerikar@gmail.com | [LinkedIn](https://www.linkedin.com/in/neha-madangerikar/)
